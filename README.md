@@ -2,8 +2,10 @@
 
 ## Screenshots 📸
 
-![Screenshot 1](Screenshot_1676101088.png)
-![Screenshot 2](Screenshot_20230211_095549.png)
-![Screenshot 3](Screenshot_20230211_095558.png)
-![Screenshot 4](Screenshot_20230211_095600.png)
-![Screenshot 5](Screenshot_20230211_095602.png)
+<p align="center">
+  <img src="Screenshot_1676101088.png" alt="Screenshot 1" width="200"/>
+  <img src="Screenshot_20230211_095549.png" alt="Screenshot 2" width="200"/>
+  <img src="Screenshot_20230211_095558.png" alt="Screenshot 3" width="200"/>
+  <img src="Screenshot_20230211_095600.png" alt="Screenshot 4" width="200"/>
+  <img src="Screenshot_20230211_095602.png" alt="Screenshot 5" width="200"/>
+</p>
