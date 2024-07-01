@@ -9,6 +9,7 @@
   <img src="Screenshot_20230211_095600.png" alt="Screenshot 4" width="200"/>
   <img src="Screenshot_20230211_095602.png" alt="Screenshot 5" width="200"/>
 </p>
+
 Description
 A demo app that demonstrates Flutter's ability to create beautiful UI with complex animations. The app fetches recipes from local storage.
 
